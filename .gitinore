@@ -1,0 +1,7 @@
+# Tråkiga filer man inte vill ha i git
+*.log
+*.aux
+*.o
+*~
+\#*
+\.#*
