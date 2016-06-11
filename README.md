@@ -20,3 +20,8 @@ gynna datateknologsektionens verksamhet även om det uppskattas.
 
 För att lägga till projekt går man till fliken "Issues" och klickar på
 "New Issue" och skriver en liten förklaring på projektet.
+
+# Existerande idéer och förslag
+
+* Bygga om anteckningar.dtek. Mer info [här](anteckningar.md)
+* Bygga nya dtek-wikin i gitit. Mer info [här](wiki-gitit.md)
