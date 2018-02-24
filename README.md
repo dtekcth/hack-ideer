@@ -25,3 +25,4 @@ För att lägga till projekt går man till fliken "Issues" och klickar på
 
 * Bygga om anteckningar.dtek. Mer info [här](anteckningar.md)
 * Bygga nya dtek-wikin i gitit. Mer info [här](wiki-gitit.md)
+* Bygga en tentadatabas (likt [chalmerstenta.se](http://www.chalmerstenta.se)) med github backend. Mer info [här](tentadatabas.md)
